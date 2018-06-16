@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/span/.android/build-cache/fa6595e9cd43ede903ca3708eadddf39ccc9cfaf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/pre-dexed/debug/classes_03b3da470942e3492736dbf4cc35a82ab5b398a9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/.android/build-cache/4ec22ff1ac189bcdec04ade2df232312ef66b0ba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7ce3c4c10d9c3b0659fb9c38f1394de20cc52c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/span/.android/build-cache/753236b2f14676783a0e2e7585f617d13c7e6e92/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/pre-dexed/debug/classes_7c31cd5595eac70661923fbb51025946976a1221.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5fbdc1dfe7174b80f32e68159a04a2a40e8bc12">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e80dfe2e729875b0e69265bc2641d955ba9e9389/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/.android/build-cache/d7190c8a22aabb65bea33f453c289d854c28304d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3dcfdb9adf6ffb39bddcd9707b23a6a7ea582040/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/.android/build-cache/cd348562434fc31fd4c26563ae2b05fee499be2e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd28478b6f69ec861262ce029211d57a84c2feb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/span/.android/build-cache/6a34af4d58df057869d0ba5b559d179a136bc4f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/pre-dexed/debug/classes_ec35550c0242d4fd38567bee532049723b0b283f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.4/522cfb00b6c015b72c64ee60054b4f6338880858/rxjava-1.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="522cfb00b6c015b72c64ee60054b4f6338880858">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.2.4_a2972e75df302a9689a34f47ff7d01a649f9f9c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/span/.android/build-cache/eb5e1ddfb9f2c9aae1509c055eb2ffbd092383c3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="28ec536caf8a2bff4fa5651e3e4649182e053dfd">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/pre-dexed/debug/classes_0cbfadde38e47d2b006b52101345e3ef3e262ff9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/span/.android/build-cache/088359ef3a598147970f1a9ac0bec34ba3c1b538/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb305d2ec1f85a4122c5e9d0412c87e20dac20f8">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/pre-dexed/debug/classes_15dbb1a84967907cf2c8a23a32a54abc9e36ebc2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/.android/build-cache/3b9042d28eb6cc147ac833f6de063a65644496e1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5deefe6f79823a9cc21e38ff00beee7a3aea39f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_0e7c205b4794c48caa40c13a922b0c88fdc77557/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/.android/build-cache/ac639c0ce1dfc66b69016369a0d0a101c6ffb8dc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6cce99225f9276ca0b83be8b8183e073b122d1cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/span/.android/build-cache/291cfde9c23cec27c9174392274a1c6c1e89726f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/pre-dexed/debug/classes_e31c86f6123e94e5973ea6bdc281ff670347f5c1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/.android/build-cache/eb5e1ddfb9f2c9aae1509c055eb2ffbd092383c3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="28ec536caf8a2bff4fa5651e3e4649182e053dfd">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0cbfadde38e47d2b006b52101345e3ef3e262ff9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/.android/build-cache/088359ef3a598147970f1a9ac0bec34ba3c1b538/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb305d2ec1f85a4122c5e9d0412c87e20dac20f8">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_15dbb1a84967907cf2c8a23a32a54abc9e36ebc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/span/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.4/522cfb00b6c015b72c64ee60054b4f6338880858/rxjava-1.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="522cfb00b6c015b72c64ee60054b4f6338880858">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/pre-dexed/debug/rxjava-1.2.4_a2972e75df302a9689a34f47ff7d01a649f9f9c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/span/.android/build-cache/14d7276f90c3e1518aed353e2552dbb13dcc9126/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/pre-dexed/debug/classes_9baaac84dd16776c7e9d4634223134e57c2c9473.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_305b56312713808b51e9e463786ccde6b93b3e6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/span/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_0e9e53014cb7de76388e85fa6f35072ee8a23cf4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/.android/build-cache/e24affe9bf18e803f85288538523adbe93c21f33/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c8819bfed648f23ae908bcb59542af30c0f7e70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/transforms/dex/debug/folders/1000/10/reactive-streams-1.0.0_0e9e53014cb7de76388e85fa6f35072ee8a23cf4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/span/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_305b56312713808b51e9e463786ccde6b93b3e6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/span/.android/build-cache/f146e8ba708f2ec0bdc4e1318a9fbdefaa727067/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/pre-dexed/debug/classes_74d6bf386de8d652eb75f7088e4b46b94c61eb70.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6017b11a234b66d05ba36be3ef49c77fb4a3abe9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/.android/build-cache/d2b02512a39bc14c382f93ac6b255d0e14d8cd0f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dc03214d3831e0e5dc53a69adb7b18ab0277c27e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/span/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.3/d2f725668bd22e21170381b23f8fbdf72c69d886/rxjava-2.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d2f725668bd22e21170381b23f8fbdf72c69d886">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/pre-dexed/debug/rxjava-2.0.3_0d12e1941b5237f4e02c3a2b75a9ad35a53e0cb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/span/.android/build-cache/d189aec2c5cf4946d2f9f07eb1e303d7c66b64cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/pre-dexed/debug/classes_6463ced00fbf87ecc9305ccb75ab0f9d37b94166.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/span/.android/build-cache/58f252d08745fc56ec3d60f718161dab13ad7e52/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/pre-dexed/debug/classes_065ba00aff31db59c10be5e5d754aab209116460.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.3/d2f725668bd22e21170381b23f8fbdf72c69d886/rxjava-2.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d2f725668bd22e21170381b23f8fbdf72c69d886">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-2.0.3_0d12e1941b5237f4e02c3a2b75a9ad35a53e0cb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/.android/build-cache/aeada78e5dd9d12eca2f57587974ecc3cab8b253/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_acd69609c7a6b7fd948747d37a9fd10339a6f078/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/.gradle/caches/modules-2/files-2.1/com.github.akarnokd/rxjava2-interop/0.8.1/7a2b932c59409b026e315fd11a94440f15ab37b4/rxjava2-interop-0.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a2b932c59409b026e315fd11a94440f15ab37b4">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava2-interop-0.8.1_242743d98d248285ed1c2e5d40348596a58aa09f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/.android/build-cache/5cbb32310a633036c76f4ade1a8cabcfb5243a3d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_55445ed349c2df40da29da83c6ab4512a8a184a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/span/.android/build-cache/958e50cbff865fea1acf7ef981c63ed997d1d6fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/pre-dexed/debug/classes_c00898b6d9dd5656de1c25f87948755dfc33d727.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/span/.gradle/caches/modules-2/files-2.1/com.github.akarnokd/rxjava2-interop/0.8.1/7a2b932c59409b026e315fd11a94440f15ab37b4/rxjava2-interop-0.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a2b932c59409b026e315fd11a94440f15ab37b4">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/pre-dexed/debug/rxjava2-interop-0.8.1_242743d98d248285ed1c2e5d40348596a58aa09f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/.android/build-cache/8e5a3fead64fb092400baf468bb4e4bef9eb7849/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_95d89ed67d81a4cfb5d22829169bf14c060580df/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/span/.android/build-cache/9a441fd90469424d2b36453b5cf52f6ad699b674/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/pre-dexed/debug/classes_13cab6da2b64b5eca7a82117ddaaa3c808b9db2d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/.android/build-cache/6a5af71c3a0d399dc3f35866bd1b3c8b87705574/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b8f67d0c1c27dc14cd5345e1f48de6a20b184adf/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/span/.android/build-cache/8e5a3fead64fb092400baf468bb4e4bef9eb7849/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/pre-dexed/debug/classes_95d89ed67d81a4cfb5d22829169bf14c060580df.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/.android/build-cache/6348397e4b0f131e391208669742f2252d604782/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2049ee4a3e908f41b61b2cd06bd7c6e2eb60f63e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/span/.android/build-cache/f1b75a53c61892ff48c096ac0d337344623c6eb0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/pre-dexed/debug/classes_42701a3b31847c1779706e2fc528576c5ff97fae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/span/.android/build-cache/d4223dcf6e4bae41d509a48235a80353db0b8ad1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/pre-dexed/debug/classes_20b84233614e416f33a737b8dd47173e68c08625.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/span/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_27a3576d8953f3ab96eef05a7a209a3d6192e306.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/.android/build-cache/d4223dcf6e4bae41d509a48235a80353db0b8ad1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20b84233614e416f33a737b8dd47173e68c08625/classes.dex" />
+    </item>
+
+</items>

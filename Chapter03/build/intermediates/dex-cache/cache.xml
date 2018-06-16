@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/span/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.5.0/94c11f915bfe1aeaa5ef6351ddfbe58bae1ea397/logging-interceptor-3.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94c11f915bfe1aeaa5ef6351ddfbe58bae1ea397">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter03/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.5.0_34106d76a0765568331f725e53da1d3a2da50b4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter03/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_c5ad892a2ee4964e19af1ab97ef44a1f23826c84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter03/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_4d42009f1914cef455735193ad053acac54907c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter03/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.11.0_8bbc0622e7e4b36e52fb84d6c18318c7a4b295b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter03/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_6ab7f84cc58e2348199bae3245cbdeb09924dc43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter03/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d621123162b84534c8c0d1dd6bee4139364fa364">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter03/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_57d291f77676b61890c737aff2efb8d1d6756ec6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/.gradle/caches/modules-2/files-2.1/com.jakewharton.retrofit/retrofit2-rxjava2-adapter/1.0.0/e117362a2103f8ec01091ebd2f40aca4e1ada599/retrofit2-rxjava2-adapter-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e117362a2103f8ec01091ebd2f40aca4e1ada599">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter03/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit2-rxjava2-adapter-1.0.0_eb88e18b405591840ab89c1a80642f81025d8a0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.5.0/4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83/okhttp-3.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter03/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.5.0_2e0f522b590ef60cd2e25cd82702161733ae4fba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter03/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/span/Documents/safari/Reactive-Android-Programming/Chapter03/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_237e72db902bc583ccd1b92aa2b00bd4852ec626/classes.dex" />
+    </item>
+
+</items>

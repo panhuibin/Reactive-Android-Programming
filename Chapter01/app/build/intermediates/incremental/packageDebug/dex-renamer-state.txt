@@ -1,0 +1,7 @@
+#Sat Jun 16 08:41:39 EDT 2018
+base.0=/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6017b11a234b66d05ba36be3ef49c77fb4a3abe9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e80dfe2e729875b0e69265bc2641d955ba9e9389/classes.dex
+base.1=/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e80dfe2e729875b0e69265bc2641d955ba9e9389
+file.0=/Users/span/Documents/safari/Reactive-Android-Programming/Chapter01/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6017b11a234b66d05ba36be3ef49c77fb4a3abe9/classes.dex

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.akarnokd:rxjava2-interop:0.8.1@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.akarnokd/rxjava2-interop/0.8.1/7a2b932c59409b026e315fd11a94440f15ab37b4/rxjava2-interop-0.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.akarnokd/rxjava2-interop/0.8.1/4f158ca562b73b8dc5a2bd4874bf155796c65ae5/rxjava2-interop-0.8.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

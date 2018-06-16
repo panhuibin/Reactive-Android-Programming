@@ -1,0 +1,76 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/span/Documents/safari/Reactive-Android-Programming/Chapter02/app/src/main/AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from /Users/span/Documents/safari/Reactive-Android-Programming/Chapter02/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/span/Documents/safari/Reactive-Android-Programming/Chapter02/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/span/Documents/safari/Reactive-Android-Programming/Chapter02/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/span/Documents/safari/Reactive-Android-Programming/Chapter02/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/span/Documents/safari/Reactive-Android-Programming/Chapter02/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/span/Documents/safari/Reactive-Android-Programming/Chapter02/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/span/Documents/safari/Reactive-Android-Programming/Chapter02/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/span/Documents/safari/Reactive-Android-Programming/Chapter02/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/span/Documents/safari/Reactive-Android-Programming/Chapter02/app/src/main/AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/span/.android/build-cache/aeada78e5dd9d12eca2f57587974ecc3cab8b253/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/span/.android/build-cache/3b9042d28eb6cc147ac833f6de063a65644496e1/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/span/.android/build-cache/e24affe9bf18e803f85288538523adbe93c21f33/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/span/.android/build-cache/6348397e4b0f131e391208669742f2252d604782/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/span/.android/build-cache/d2b02512a39bc14c382f93ac6b255d0e14d8cd0f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/span/.android/build-cache/d7190c8a22aabb65bea33f453c289d854c28304d/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/span/.android/build-cache/5cbb32310a633036c76f4ade1a8cabcfb5243a3d/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:cardview-v7:25.2.0] /Users/span/.android/build-cache/cd348562434fc31fd4c26563ae2b05fee499be2e/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/span/.android/build-cache/6a5af71c3a0d399dc3f35866bd1b3c8b87705574/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/span/.android/build-cache/4ec22ff1ac189bcdec04ade2df232312ef66b0ba/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/span/Documents/safari/Reactive-Android-Programming/Chapter02/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/span/Documents/safari/Reactive-Android-Programming/Chapter02/app/src/main/AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from /Users/span/Documents/safari/Reactive-Android-Programming/Chapter02/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/span/Documents/safari/Reactive-Android-Programming/Chapter02/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/span/Documents/safari/Reactive-Android-Programming/Chapter02/app/src/main/AndroidManifest.xml:10:9-40
+activity#packt.reactivestocks.MainActivity
+ADDED from /Users/span/Documents/safari/Reactive-Android-Programming/Chapter02/app/src/main/AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from /Users/span/Documents/safari/Reactive-Android-Programming/Chapter02/app/src/main/AndroidManifest.xml:11:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/span/Documents/safari/Reactive-Android-Programming/Chapter02/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /Users/span/Documents/safari/Reactive-Android-Programming/Chapter02/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /Users/span/Documents/safari/Reactive-Android-Programming/Chapter02/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/span/Documents/safari/Reactive-Android-Programming/Chapter02/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /Users/span/Documents/safari/Reactive-Android-Programming/Chapter02/app/src/main/AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from /Users/span/Documents/safari/Reactive-Android-Programming/Chapter02/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/span/.android/build-cache/aeada78e5dd9d12eca2f57587974ecc3cab8b253/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.2.0] /Users/span/.android/build-cache/3b9042d28eb6cc147ac833f6de063a65644496e1/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/span/.android/build-cache/e24affe9bf18e803f85288538523adbe93c21f33/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/span/.android/build-cache/6348397e4b0f131e391208669742f2252d604782/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/span/.android/build-cache/d2b02512a39bc14c382f93ac6b255d0e14d8cd0f/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/span/.android/build-cache/d7190c8a22aabb65bea33f453c289d854c28304d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/span/.android/build-cache/5cbb32310a633036c76f4ade1a8cabcfb5243a3d/output/AndroidManifest.xml:21:5-43
+MERGED from [com.jakewharton:butterknife:8.4.0] /Users/span/.android/build-cache/d4223dcf6e4bae41d509a48235a80353db0b8ad1/output/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.rxbinding2:rxbinding-recyclerview-v7:2.0.0] /Users/span/.android/build-cache/eb5e1ddfb9f2c9aae1509c055eb2ffbd092383c3/output/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.0.0] /Users/span/.android/build-cache/088359ef3a598147970f1a9ac0bec34ba3c1b538/output/AndroidManifest.xml:6:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/span/.android/build-cache/8e5a3fead64fb092400baf468bb4e4bef9eb7849/output/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:cardview-v7:25.2.0] /Users/span/.android/build-cache/cd348562434fc31fd4c26563ae2b05fee499be2e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/span/.android/build-cache/ac639c0ce1dfc66b69016369a0d0a101c6ffb8dc/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/span/.android/build-cache/6a5af71c3a0d399dc3f35866bd1b3c8b87705574/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/span/.android/build-cache/4ec22ff1ac189bcdec04ade2df232312ef66b0ba/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.2.0] /Users/span/.android/build-cache/aeada78e5dd9d12eca2f57587974ecc3cab8b253/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/span/Documents/safari/Reactive-Android-Programming/Chapter02/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/span/Documents/safari/Reactive-Android-Programming/Chapter02/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/span/Documents/safari/Reactive-Android-Programming/Chapter02/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/span/Documents/safari/Reactive-Android-Programming/Chapter02/app/src/main/AndroidManifest.xml

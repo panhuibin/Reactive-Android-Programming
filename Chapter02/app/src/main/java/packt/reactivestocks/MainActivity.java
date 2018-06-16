@@ -42,12 +42,12 @@ public class MainActivity extends AppCompatActivity {
 
         ButterKnife.bind(this);
 
-//        demo();
+        demo();
 //        demo1();
 //        demo2();
 //        demo3();
 //        demo4();
-        demo5();
+//        demo5();
         recyclerView.setHasFixedSize(true);
 
         layoutManager = new LinearLayoutManager(this);

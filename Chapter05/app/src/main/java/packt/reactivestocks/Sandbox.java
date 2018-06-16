@@ -1,5 +1,8 @@
 package packt.reactivestocks;
 
+import android.os.Build;
+import android.support.annotation.RequiresApi;
+
 import java.util.Objects;
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutorService;
@@ -16,6 +19,7 @@ public class Sandbox {
         demo9();
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.KITKAT)
     private static void demo9() throws Exception {
 
         Observable.range(1, 100)
@@ -31,6 +35,7 @@ public class Sandbox {
         WAIT_LATCH.await();
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.KITKAT)
     private static void demo8() throws InterruptedException {
         Observable.range(1, 1000)
                 .map(Objects::toString)
@@ -94,6 +99,7 @@ public class Sandbox {
         Schedulers.io();
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.KITKAT)
     private static void demo3() {
         final ExecutorService executor = Executors.newFixedThreadPool(10);
         final Scheduler pooledScheduler = Schedulers.from(executor);
@@ -104,6 +110,7 @@ public class Sandbox {
                 .subscribe(e -> log("subscribe", e));
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.KITKAT)
     private static void demo2() throws Exception {
         final ExecutorService executor = Executors.newFixedThreadPool(1000);
         final Scheduler pooledScheduler = Schedulers.from(executor);
@@ -121,6 +128,7 @@ public class Sandbox {
         executor.shutdown();
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.KITKAT)
     private static void demo1() throws Exception {
         Observable.range(1, 10000)
                 .flatMap(i -> Observable.just(i)
